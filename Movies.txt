@@ -1,0 +1,61 @@
+Title: Inception
+Genre: Action
+Director: Christopher Nolan
+Studio: Warner Bros.
+Year: 2010
+
+Title: The Avengers
+Genre: Action
+Director: Joss Whedon
+Studio: Marvel Studios
+Year: 2012
+
+Title: Frozen
+Genre: Animation
+Director: Chris Buck
+Director: Jennifer Lee
+Studio: Walt Disney Animation Studios
+Year: 2013
+
+Title: Interstellar
+Genre: Drama
+Director: Christopher Nolan
+Studio: Paramount
+Year: 2014
+
+Title: Mad Max: Fury Road
+Genre: Action
+Director: George Miller
+Studio: Warner Bros.
+Year: 2015
+
+Title: Zootopia
+Genre: Animation
+Director: Byron Howard
+Director: Rich Moore
+Studio: Walt Disney Animation Studios
+Year: 2016
+
+Title: Get Out
+Genre: Horror
+Director: Jordan Peele
+Studio: Blumhouse Productions
+Year: 2017
+
+Title: Black Panther
+Genre: Action
+Director: Ryan Coogler
+Studio: Marvel Studios
+Year: 2018
+
+Title: Joker
+Genre: Drama
+Director: Todd Phillips
+Studio: Warner Bros.
+Year: 2019
+
+Title: Dune
+Genre: Fiction
+Director: Denis Villeneuve
+Studio: Legendary Pictures
+Year: 2021
